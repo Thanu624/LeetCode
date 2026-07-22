@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Thanu624/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Thanu624/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Thanu624/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thanu624/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
