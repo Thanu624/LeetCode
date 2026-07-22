@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Thanu624/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thanu624/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Thanu624/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Thanu624/LeetCode/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Thanu624/LeetCode/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
