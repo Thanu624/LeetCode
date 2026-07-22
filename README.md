@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Thanu624/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Thanu624/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Thanu624/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
