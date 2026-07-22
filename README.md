@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Thanu624/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Thanu624/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thanu624/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Thanu624/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
