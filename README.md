@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Thanu624/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Thanu624/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Thanu624/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Thanu624/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
 | ------- |
