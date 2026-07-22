@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Thanu624/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Thanu624/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
