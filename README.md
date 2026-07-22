@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Thanu624/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thanu624/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Thanu624/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Thanu624/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Thanu624/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Thanu624/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
