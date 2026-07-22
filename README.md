@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Thanu624/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Thanu624/LeetCode/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thanu624/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Thanu624/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Thanu624/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Thanu624/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Thanu624/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Matrix
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Thanu624/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Thanu624/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Thanu624/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Thanu624/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Memoization
 |  |
 | ------- |
