@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thanu624/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Thanu624/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Thanu624/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Thanu624/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Thanu624/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Thanu624/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Thanu624/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
