@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Thanu624/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Thanu624/LeetCode/tree/master/0812-largest-triangle-area) |
+| [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thanu624/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Thanu624/LeetCode/tree/master/0799-champagne-tower) |
+| [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
