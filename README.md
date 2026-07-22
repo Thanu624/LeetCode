@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thanu624/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Thanu624/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thanu624/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
