@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Thanu624/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Thanu624/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Thanu624/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Thanu624/LeetCode/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
