@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Thanu624/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/Thanu624/LeetCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Thanu624/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Thanu624/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Thanu624/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Thanu624/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/Thanu624/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Thanu624/LeetCode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Thanu624/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Backtracking
 |  |
 | ------- |
