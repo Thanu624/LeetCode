@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Thanu624/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Thanu624/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Thanu624/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Thanu624/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Thanu624/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/Thanu624/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Thanu624/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
