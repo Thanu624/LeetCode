@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Thanu624/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Thanu624/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Thanu624/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -358,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
