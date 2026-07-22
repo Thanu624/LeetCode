@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thanu624/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Thanu624/LeetCode/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Thanu624/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Thanu624/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Thanu624/LeetCode/tree/master/0118-pascals-triangle) |
 ## String Matching
 |  |
 | ------- |
