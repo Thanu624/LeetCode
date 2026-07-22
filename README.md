@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Thanu624/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Thanu624/LeetCode/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/Thanu624/LeetCode/tree/master/0812-largest-triangle-area) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Thanu624/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Thanu624/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Thanu624/LeetCode/tree/master/0812-largest-triangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Thanu624/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
