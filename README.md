@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Thanu624/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thanu624/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Thanu624/LeetCode/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Thanu624/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Thanu624/LeetCode/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
