@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Thanu624/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Thanu624/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thanu624/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Thanu624/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Thanu624/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Thanu624/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Thanu624/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
