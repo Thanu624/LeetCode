@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Thanu624/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Thanu624/LeetCode/tree/master/0069-sqrtx) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Thanu624/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Thanu624/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Thanu624/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thanu624/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Thanu624/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Thanu624/LeetCode/tree/master/0097-interleaving-string) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thanu624/LeetCode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Thanu624/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Segment Tree
 |  |
