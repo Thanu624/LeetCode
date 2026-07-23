@@ -486,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Thanu624/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
-<!---LeetCode Topics End-->
+<!---LeetCode Topics End--> 
+![LeetCode Stats](https://leetcard.jacoblin.cool/086135?theme=light&font=Teko)
