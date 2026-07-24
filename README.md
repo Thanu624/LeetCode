@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Thanu624/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Thanu624/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Thanu624/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Thanu624/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Thanu624/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Thanu624/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Thanu624/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Thanu624/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thanu624/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Thanu624/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thanu624/LeetCode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Thanu624/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Thanu624/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Thanu624/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Thanu624/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Thanu624/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Thanu624/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Thanu624/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Thanu624/LeetCode/tree/master/0100-same-tree) |
