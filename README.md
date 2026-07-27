@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thanu624/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Thanu624/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Thanu624/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Thanu624/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Thanu624/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Thanu624/LeetCode/tree/master/0079-word-search) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Thanu624/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Thanu624/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Thanu624/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Thanu624/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Thanu624/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Thanu624/LeetCode/tree/master/0062-unique-paths) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Thanu624/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Thanu624/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Thanu624/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Thanu624/LeetCode/tree/master/0258-add-digits) |
