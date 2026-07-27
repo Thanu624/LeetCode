@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thanu624/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Thanu624/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Thanu624/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Thanu624/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Thanu624/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Thanu624/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Thanu624/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Thanu624/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Thanu624/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Thanu624/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Thanu624/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Thanu624/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Thanu624/LeetCode/tree/master/0048-rotate-image) |
