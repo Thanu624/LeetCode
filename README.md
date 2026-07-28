@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Thanu624/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Thanu624/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Thanu624/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thanu624/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Thanu624/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Thanu624/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thanu624/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thanu624/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thanu624/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thanu624/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Thanu624/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Thanu624/LeetCode/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thanu624/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
 |  |
 | ------- |
