@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Thanu624/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Thanu624/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Thanu624/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Thanu624/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Thanu624/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Thanu624/LeetCode/tree/master/0344-reverse-string) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Thanu624/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thanu624/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Thanu624/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Thanu624/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Thanu624/LeetCode/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
