@@ -647,5 +647,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thanu624/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Thanu624/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End--> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/086135?theme=light&font=Teko)
