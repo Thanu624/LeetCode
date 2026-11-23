@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Thanu624/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Thanu624/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0509-fibonacci-number](https://github.com/Thanu624/LeetCode/tree/master/0509-fibonacci-number) |
+| [0629-k-inverse-pairs-array](https://github.com/Thanu624/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0799-champagne-tower](https://github.com/Thanu624/LeetCode/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Thanu624/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
