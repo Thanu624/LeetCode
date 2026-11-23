@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thanu624/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Thanu624/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thanu624/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Thanu624/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Thanu624/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Thanu624/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Thanu624/LeetCode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thanu624/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Thanu624/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Thanu624/LeetCode/tree/master/0133-clone-graph) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Thanu624/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Thanu624/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Thanu624/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
