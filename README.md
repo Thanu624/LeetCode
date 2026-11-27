@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Thanu624/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Thanu624/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Thanu624/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Thanu624/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Thanu624/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Thanu624/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Thanu624/LeetCode/tree/master/0242-valid-anagram) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Thanu624/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Thanu624/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Thanu624/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Thanu624/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Thanu624/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Thanu624/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thanu624/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Thanu624/LeetCode/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Thanu624/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -733,5 +736,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Thanu624/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End--> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/086135?theme=light&font=Teko)
