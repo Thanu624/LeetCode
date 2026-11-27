@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Thanu624/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Thanu624/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thanu624/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/Thanu624/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Thanu624/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Thanu624/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thanu624/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thanu624/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Thanu624/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Thanu624/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Thanu624/LeetCode/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Thanu624/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thanu624/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Thanu624/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -625,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Thanu624/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thanu624/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Thanu624/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Thanu624/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thanu624/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Geometry
@@ -720,5 +726,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Thanu624/LeetCode/tree/master/0743-network-delay-time) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Thanu624/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End--> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/086135?theme=light&font=Teko)
