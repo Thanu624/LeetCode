@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Thanu624/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Thanu624/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Thanu624/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Thanu624/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Thanu624/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Thanu624/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thanu624/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Thanu624/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Thanu624/LeetCode/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/Thanu624/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Thanu624/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Thanu624/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String Matching
 |  |
 | ------- |
